@@ -168,10 +168,3 @@ input[type=submit] {
     width: 200px;
     height: 200px;
   }
-
-  @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-      color: #ff1010;
-    }
-  }
